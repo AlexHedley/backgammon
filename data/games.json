@@ -1,0 +1,26 @@
+{
+    "games": [
+        {
+            "id": 1,
+            "name": "",
+            "date": "2020-10-01",
+            "description": "",
+            "players": [
+                {
+                    "name": "Alex",
+                    "colour": "brown",
+                    "winner": false,
+                    "remaining": [
+                        { "1": 6 },
+                        { "2": 1 }
+                    ]
+                },
+                {
+                    "name": "Courtney",
+                    "colour": "white",
+                    "winner": true
+                }
+            ]
+        }
+    ]
+}
