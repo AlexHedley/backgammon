@@ -21,7 +21,7 @@
                     "winner": true
                 }
             ]
-        },
+        } ,
         {
             "id": 2,
             "name": "",
@@ -41,6 +41,28 @@
                         { "6": 4 },
                         { "5": 1 },
                         { "4": 1 }
+                    ]
+                }
+            ]
+        } ,
+        {
+            "id": 3,
+            "name": "",
+            "date": "2020-10-04",
+            "description": "",
+            "players": [
+                {
+                    "name": "Alex",
+                    "colour": "brown",
+                    "winner": true
+                },
+                {
+                    "name": "Courtney",
+                    "colour": "white",
+                    "winner": false,
+                    "remaining": [
+                        { "6": 2 },
+                        { "5": 1 }
                     ]
                 }
             ]
