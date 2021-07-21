@@ -1,5 +1,7 @@
 # Backgammon
 
+![Backgammon](images/backgammon.jpg "Backgammon")
+
 Backgammon games and scores
 
 - [Site](https://alexhedley.github.io/backgammon/)
